@@ -4,10 +4,8 @@
 
 I'm a BS Computer Engineering student, passionate about AI, machine learning, deep learning, web development, software development, and the fundamentals of Cisco networking👨‍💻.
 
-## Education 🧑‍🎓
 <p align="left">
-<b>STEM</b><br>
- <h1>Education Information</h1>
+ <h1>Education Information🧑‍🎓</h1>
   <p>
     SHS: <strong>STEM student</strong><br>
     School: <strong>St. Anthony College of Calapan</strong><br>
