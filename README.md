@@ -1,12 +1,26 @@
 # Welcome to my Github Profile
 
+# Hi there, I'm Mark Vincent Riel Gallemit! 👋
 
-👋 Hi there, I'm Mark Vincent Riel Gallemit!
-👨‍💻 I'm a BS Computer Engineering student, passionate about AI, machine learning, deep learning, web development, software development, and the fundamentals of Cisco networking.
-💡 I enjoy working with programming languages like Python and Java.
-🌐 Additionally, I have experience with HTML and CSS for front-end web development.
-📚 Currently, I'm diving deeper into the fascinating realm of machine learning.
-🚀 Let's connect and explore the endless possibilities together!
+I'm a BS Computer Engineering student, passionate about AI, machine learning, deep learning, web development, software development, and the fundamentals of Cisco networking.
+
+## Areas of Interest
+
+- AI, machine learning, and deep learning
+- Web development and software development
+- Cisco networking (basics)
+
+## Programming Languages
+
+- Python
+- Java
+- HTML and CSS (for front-end web development)
+
+## Current Focus
+
+I'm currently focused on expanding my knowledge of machine learning.
+
+Let's connect and explore the endless possibilities together! 🚀
 
 # MY STATS:
 
