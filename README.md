@@ -14,6 +14,7 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
 
 - Python
 - Java
+- C++
 - HTML and CSS (for front-end web development)
 
 ## Current Focus📚
