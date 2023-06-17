@@ -1,8 +1,25 @@
 # Welcome to my Github Profile
 
-# Hi there, I'm Mark Vincent Riel Gallemit! 👋
+# Hi there, I'm Mark Vincent Riel Gallemit! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm a BS Computer Engineering student, passionate about AI, machine learning, deep learning, web development, software development, and the fundamentals of Cisco networking👨‍💻.
+
+## Education 🧑‍🎓
+<p align="left">
+<b>STEM</b><br>
+ <h1>Education Information</h1>
+  <p>
+    SHS: <strong>STEM student</strong><br>
+    School: <strong>St. Anthony College of Calapan</strong><br>
+    Year: <strong>2017 - 2019</strong>
+  </p>
+  <p>
+    College: <strong>Bachelor of Science in Computer Engineering</strong><br>
+    School: <strong>Batangas State University - The National Engineering University</strong><br>
+    Year: <strong>2019 - Present</strong><br>
+    Expected Graduation: <strong>August 2023</strong>
+  </p>
+
 
 ## Areas of Interest💡
 
