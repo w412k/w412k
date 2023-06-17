@@ -42,7 +42,7 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/github.svg" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="36" height="36" alt="ms-office" /></a>
 
-## Links 🔗
+## Social Links 🔗
 <p align="left"> 
 <a href="https://www.facebook.com/markvincent.gallemit.9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/mark-vincent-gallemit-942985236" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
