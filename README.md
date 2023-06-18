@@ -14,7 +14,7 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
   <p>
     College: <strong>Bachelor of Science in Computer Engineering</strong><br>
     School: <strong>Batangas State University - The National Engineering University</strong><br>
-    Year: <strong>2019 - Present</strong><br>
+    Year: <strong>2019 - 2023</strong><br>
     Expected Graduation: <strong>August 2023</strong>
   </p>
 
