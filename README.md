@@ -19,13 +19,13 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
   </p>
 
 
-## Areas of Interest💡
+# Areas of Interest💡
 
 - AI, machine learning, and deep learning
 - Web development and software development
 - Cisco networking (basics)
 
-## Programming Languages🌐
+# Programming Languages🌐
 
 - Python 
 - Java
@@ -39,7 +39,7 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>  
 
-## Tools ⚒️
+# Tools ⚒️
 
 - Visual Studio Code
 - Netbeans
@@ -63,7 +63,7 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
 <a href="https://www.linkedin.com/in/mark-vincent-gallemit-942985236" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
   
-## Current Focus📚
+# Current Focus📚
 
 I'm currently focused on expanding my knowledge of machine learning.
 
