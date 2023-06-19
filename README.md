@@ -75,4 +75,4 @@ Let's connect and explore the endless possibilities together! 🚀
 [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://camo.githubusercontent.com/52f127d8d4f3f2bf92137235c89753beab7d1f65c8ce4c768ee3c66182641d2c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d526f6d656f456e63696e61726573267468656d653d6461726b26686964655f626f726465723d66616c7365)
+[![](https://camo.githubusercontent.com/w412k/w412k)
