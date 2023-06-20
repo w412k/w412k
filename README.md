@@ -7,15 +7,15 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
 <p align="left">
  <h1>Education Information🧑‍🎓</h1>
   <p>
-    SHS: <strong>STEM student</strong><br>
-    School: <strong>St. Anthony College of Calapan</strong><br>
-    Year: <strong>2017 - 2019</strong>
-  </p>
-  <p>
     College: <strong>Bachelor of Science in Computer Engineering</strong><br>
     School: <strong>Batangas State University - The National Engineering University</strong><br>
     Year: <strong>2019 - 2023</strong><br>
     Expected Graduation: <strong>August 2023</strong>
+  </p>
+  <p>
+    SHS: <strong>STEM student</strong><br>
+    School: <strong>St. Anthony College of Calapan</strong><br>
+    Year: <strong>2017 - 2019</strong>
   </p>
 
 
