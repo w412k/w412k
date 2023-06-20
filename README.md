@@ -70,7 +70,8 @@ I'm currently focused on expanding my knowledge of machine learning.
 Let's connect and explore the endless possibilities together! 🚀
 
 # MY STATS:
-![](https://github.com/w412k/github-stats/blob/master/generated/overview.svg)
+<a href="https://github.com/w412k/github-stats">
+<img src="https://github.com/w412k/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 
 [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
