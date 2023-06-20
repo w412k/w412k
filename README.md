@@ -81,6 +81,4 @@ Let's connect and explore the endless possibilities together! 🚀
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=w412k&icon=0&color=0)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=w412k&label=Visitors&icon=5&pretty=false)](https://visitcount.itsvg.in)
