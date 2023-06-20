@@ -75,8 +75,8 @@ Let's connect and explore the endless possibilities together! 🚀
 [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/buefy/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=w412k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=w412k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=w412k&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=w412k&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
