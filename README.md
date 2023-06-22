@@ -50,7 +50,8 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
 - MS Office
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="vs-code" /></a>
-<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36" height="36" alt="NetBeans" /></a>
+<a 
+ href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36" height="36" alt="NetBeans" /></a>
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" width="36" height="36" alt="Eclipse" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jeraldconstantino/jeraldconstantino/blob/main/anaconda-icon.png" width="36" height="36" alt="Anaconda" /></a>
