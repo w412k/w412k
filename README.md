@@ -48,6 +48,7 @@ I'm a BS Computer Engineering student, passionate about AI, machine learning, de
 - Anaconda
 - Github
 - MS Office
+  
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="36" height="36" alt="vs-code" /></a>
 <a 
