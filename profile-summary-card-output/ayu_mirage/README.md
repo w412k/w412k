@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/w412k/w412k/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg)
+```
+
+    
